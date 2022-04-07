@@ -1,9 +1,7 @@
-package programmers.lesson42579;
+package programmers.lesson.lesson42579;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 
